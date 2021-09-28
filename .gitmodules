@@ -1,0 +1,3 @@
+[submodule "ips-protodesc-code"]
+	path = ips-protodesc-code
+	url = https://github.com/fork-bombed/ips-protodesc-code
