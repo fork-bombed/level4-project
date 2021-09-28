@@ -1,0 +1,2 @@
+* 17/09/2021 [3 hours] Learning parsley grammar file syntax and writing a parser for QUIC packet descriptions
+* 23/09/2021 [2 hours] Adding all QUIC packet descriptions as text files and ensuring the grammar file can parse them all correctly
