@@ -24,3 +24,4 @@
 ### 28 Sept 2021
 
 * *0.5 hours* Meeting with supervisor to discuss start of project, minutes found in [meetings/2020-09-28](meetings/2021-09-28.md)
+* *1 hour* Understanding formatting code
