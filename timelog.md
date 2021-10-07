@@ -23,7 +23,7 @@
 * *1 hour* Understanding the [parser](ips-protodesc-code/npt/parser_asciidiagram.py) code
 
 ### 29 Sept 2021
-* *1 hours* Implementing [QUIC structure parser](../ips-protodesc-code/npt/parser_quicstructures.py)
+* *1 hour* Implementing [QUIC structure parser](../ips-protodesc-code/npt/parser_quicstructures.py)
 * *5 hours* Stepping through the program line for line to get a better understanding of the parsing process
 
 ### 30 Sept 2021
@@ -39,4 +39,6 @@
 * *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-05](meetings/2021-10-05.md)
 * *1 hour* Looking at areas of the code to refactor and adding some helper functions to deal with QUIC encoding
   
-### 6 Oct 2021
+### 7 Oct 2021
+* *3 hours* Processing RFC sections with the QUIC structure parser
+* *3 hours* Converting parsed data to internal representation objects
