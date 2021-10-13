@@ -42,3 +42,8 @@
 ### 7 Oct 2021
 * *3 hours* Processing RFC sections with the QUIC structure parser
 * *3 hours* Converting parsed data to internal representation objects
+
+## Week 4
+
+### 12 Oct 2021
+* *0.5 hours* MMeeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-12](meetings/2021-10-12.md)

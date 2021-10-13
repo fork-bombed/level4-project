@@ -21,3 +21,19 @@
 - Build custom ParserException base class in parser.py. Allows for more accurate error handling in future.
 - Generate internal representation types straight from the grammar file
 - Increase modularity and readability by returning values from functions and then updating attributes rather than overwriting attributes within functions
+
+## Example Structure
+```
+Example Structure {
+    One-bit Field (1),
+    7-bit Field with Fixed Value (7) = 61,
+    Field with Variable-Length Integer (i),
+    Field with Fixed Range Value (i) = 0x06..0x07,
+    Arbitrary-Length Field (..),
+    Variable-Length Field (8..24),
+    Field With Minimum Length (16..),
+    Field With Maximum Length (..128),
+    [Optional Field (64)],
+    Repeated Field (8) ...,
+}
+```
