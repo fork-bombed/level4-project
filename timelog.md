@@ -46,4 +46,10 @@
 ## Week 4
 
 ### 12 Oct 2021
-* *0.5 hours* MMeeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-12](meetings/2021-10-12.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-12](meetings/2021-10-12.md)
+
+## Week 5
+
+### 19 Oct 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-19](meetings/2021-10-19.md)
+* *7 hours* Building a custom wrapper to automatically apply constraints for different field types
