@@ -53,3 +53,21 @@
 ### 19 Oct 2021
 * *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-19](meetings/2021-10-19.md)
 * *7 hours* Building a custom wrapper to automatically apply constraints for different field types
+
+## Week 6
+
+### 26 Oct 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-26](meetings/2021-10-26.md)
+
+## Week 7
+
+### 5 Nov 2021
+* *1 hour* Researching ideas for parsed representation
+
+## Week 8
+
+### 7 Nov 2021
+* *3 hours* Building diagrams and boilerplate code for the parsed representation
+
+### 8 Nov 2021
+* *3 hours* Completed code for parsed representation
