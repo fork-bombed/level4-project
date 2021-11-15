@@ -71,3 +71,8 @@
 
 ### 8 Nov 2021
 * *3 hours* Completed code for parsed representation
+
+## Week 9
+
+### 15 Nov 2021
+* *6 hours* Rough conversion of parsed representation into internal representation
