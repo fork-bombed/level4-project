@@ -72,7 +72,35 @@
 ### 8 Nov 2021
 * *3 hours* Completed code for parsed representation
 
+### 9 Nov 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-09](meetings/2021-11-09.md)
+
 ## Week 9
 
 ### 15 Nov 2021
 * *6 hours* Rough conversion of parsed representation into internal representation
+
+### 16 Nov 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-16](meetings/2021-11-16.md)
+
+# Week 10
+
+### 23 Nov 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-23](meetings/2021-11-23.md)
+
+# Week 11
+
+### 29 Nov 2021
+* *2 hours* Defining the boundaries of parsed representation and understand the next stages of the project
+
+### 30 Nov 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-30](meetings/2021-11-30.md)
+
+### 1 Dec 2021
+* *2 hours* Brainstorming variable-length integer definition and field types
+
+# Week 12
+
+### 7 Dec 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-12-07](meetings/2021-12-07.md)
+* *2 hours* Lecture regarding dissertation writing and project status
