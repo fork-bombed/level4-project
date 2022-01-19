@@ -19,7 +19,7 @@
 * *2 hours* More research into how QUIC works and how to represent packet structures in Python
 
 ### 28 Sept 2021
-* *0.5 hours* Meeting with supervisor to discuss start of project, minutes found in [meetings/2020-09-28](meetings/2021-09-28.md)
+* *0.5 hours* Meeting with supervisor to discuss start of project, minutes found in [meetings/2021-09-28](meetings/2021-09-28.md)
 * *1 hour* Understanding the [parser](ips-protodesc-code/npt/parser_asciidiagram.py) code
 
 ### 29 Sept 2021
@@ -36,7 +36,7 @@
 ## Week 3
 
 ### 5 Oct 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-05](meetings/2021-10-05.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-10-05](meetings/2021-10-05.md)
 * *1 hour* Looking at areas of the code to refactor and adding some helper functions to deal with QUIC encoding
   
 ### 7 Oct 2021
@@ -46,18 +46,18 @@
 ## Week 4
 
 ### 12 Oct 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-12](meetings/2021-10-12.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-10-12](meetings/2021-10-12.md)
 
 ## Week 5
 
 ### 19 Oct 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-19](meetings/2021-10-19.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-10-19](meetings/2021-10-19.md)
 * *7 hours* Building a custom wrapper to automatically apply constraints for different field types
 
 ## Week 6
 
 ### 26 Oct 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-10-26](meetings/2021-10-26.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-10-26](meetings/2021-10-26.md)
 
 ## Week 7
 
@@ -73,7 +73,7 @@
 * *3 hours* Completed code for parsed representation
 
 ### 9 Nov 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-09](meetings/2021-11-09.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-11-09](meetings/2021-11-09.md)
 
 ## Week 9
 
@@ -81,26 +81,69 @@
 * *6 hours* Rough conversion of parsed representation into internal representation
 
 ### 16 Nov 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-16](meetings/2021-11-16.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-11-16](meetings/2021-11-16.md)
 
-# Week 10
+## Week 10
 
 ### 23 Nov 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-23](meetings/2021-11-23.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-11-23](meetings/2021-11-23.md)
 
-# Week 11
+## Week 11
 
 ### 29 Nov 2021
 * *2 hours* Defining the boundaries of parsed representation and understand the next stages of the project
 
 ### 30 Nov 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-11-30](meetings/2021-11-30.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-11-30](meetings/2021-11-30.md)
 
 ### 1 Dec 2021
 * *2 hours* Brainstorming variable-length integer definition and field types
 
-# Week 12
+## Week 12
 
 ### 7 Dec 2021
-* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-12-07](meetings/2021-12-07.md)
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2021-12-07](meetings/2021-12-07.md)
 * *2 hours* Lecture regarding dissertation writing and project status
+
+### 12 Dec 2021
+* *2 hours* Working on structure/enum ideas to represent variable-length integers
+
+## Week 13
+
+### 13 Dec 2021
+* *3 hours* Adding enums to the parsed representation
+* *2 hours* Parsing enums correctly
+* *1 hour* Fixing mypy problems
+* *0.5 hours* Writing basic tests for parsed representation
+
+### 14 Dec 2021
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2020-12-14](meetings/2021-12-14.md)
+* *1 hour* Extending the QUIC syntax to represent enums
+* *3 hours* Converting enums to the internal representation
+
+### 16 Dec 2021
+* *0.5 hours* Producing code for enums
+
+## Week 14
+
+### 21 Dec 2021
+* *1 hour* Removing unused enum representations
+
+## Week 15
+
+### 30 Dec 2021
+* *2 hours* Adding value constraints
+* *1 hour* Removing outdated enum references
+* *0.5 hours* Debugging value constraints because they weren't actually in the Rust formatter :/
+* *0.5 hours* Cleaning up unnecessary code and fixing README formatting
+
+## Week 16
+
+### 6 Jan 2022
+* *3 hours* Inferring sizes from corresponding length fields
+* *2 hours* Unknown arbitrary fields handled
+
+## Week 17
+
+## Week 18
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-01-19](meetings/2022-01-19.md)
