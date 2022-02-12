@@ -146,4 +146,31 @@
 ## Week 17
 
 ## Week 18
+
+### 19 Jan 2022
 * *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-01-19](meetings/2022-01-19.md)
+  
+## Week 19
+
+### 25 Jan 2022
+* *4 hours* Altering QUIC RFC to explicitly state variable length integers
+
+### 26 Jan 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-01-26](meetings/2022-01-26.md)
+
+## Week 20
+
+### 2 Feb 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-02-02](meetings/2022-02-02.md)
+* *3 hours* Handling enums as field types
+
+### 5 Feb 2022
+* *4 hours* Working with enums
+
+## Week 21
+
+### 8 Feb 2022
+* *5 hours* Inferring PDUs from variant descriptions
+
+### 9 Feb 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-02-09](meetings/2022-02-09.md)
