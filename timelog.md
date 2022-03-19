@@ -167,6 +167,9 @@
 ### 5 Feb 2022
 * *4 hours* Working with enums
 
+### 6 Feb 2022
+* *4 hours* Fixing recursive enum building
+
 ## Week 21
 
 ### 8 Feb 2022
@@ -174,3 +177,75 @@
 
 ### 9 Feb 2022
 * *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-02-09](meetings/2022-02-09.md)
+* *4 hours* Bug fixing
+
+## Week 22
+
+### 16 Feb 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-02-16](meetings/2022-02-16.md)
+* *1 hour* Focusing on dissertation writeup
+
+## Week 23
+
+### 23 Feb 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-02-23](meetings/2022-02-23.md)
+
+### 25 Feb 2022
+* *4 hours* Dissertation writeup
+
+### 26 Feb 2022
+* *5 hours* Dissertation writeup
+
+## Week 24
+
+### 01 Mar 2022
+* *4 hours* Dissertation writeup
+
+### 02 Mar 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-03-02](meetings/2022-03-02.md)
+* *6 hours* Dissertation writeup
+
+### 03 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 04 Mar 2022
+* *6 hours* Dissertation writeup
+
+## Week 25
+
+### 07 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 08 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 09 Mar 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-03-09](meetings/2022-03-09.md)
+* *5 hours* Dissertation writeup
+
+### 10 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 11 Mar 2022
+* *8 hours* Dissertation writeup
+
+## Week 26
+
+### 12 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 15 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 16 Mar 2022
+* *0.5 hours* Meeting with supervisor to discuss progress and goals over the next week, minutes found in [meetings/2022-03-16](meetings/2022-03-16.md)
+* *4 hours* Dissertation writeup
+
+### 17 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 18 Mar 2022
+* *6 hours* Dissertation writeup
+
+### 19 Mar 2022
+* *8 hours* Dissertation writeup
